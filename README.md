@@ -1,5 +1,7 @@
 # AsyncImagePipeline
 
+[![CI](https://github.com/FritzHsiao/AsyncImagePipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/FritzHsiao/AsyncImagePipeline/actions/workflows/ci.yml)
+
 A modern async image-loading library for Apple platforms, built concurrency-first. Think Kingfisher, but designed around Swift Concurrency from the ground up: an **actor**-orchestrated pipeline, `async/await` everywhere, structured cancellation, and protocol-based dependency injection for testability.
 
 - **Swift Concurrency** — `async/await` end to end, no callbacks
