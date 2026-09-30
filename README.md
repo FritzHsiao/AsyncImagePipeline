@@ -23,7 +23,7 @@ Swift Package Manager:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/your-org/AsyncImagePipeline.git", from: "1.0.0")
+    .package(url: "https://github.com/FritzHsiao/AsyncImagePipeline.git", from: "1.0.0")
 ]
 ```
 
